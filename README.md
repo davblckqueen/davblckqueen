@@ -5,7 +5,8 @@
 - 📫 How to reach me:
   - 
   - 📒ing.dsrr@gmail.com
-  - **L** www.linkedin.com/in/david-reina-bhiero
+  - 🔗 www.linkedin.com/in/david-reina-bhiero
+  - 🦊 https://gitlab.com/u1201730
  
 
 <!---
