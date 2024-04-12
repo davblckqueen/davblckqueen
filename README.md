@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davblckqueen (David Reina) ~~ AKA BlackHierophant
   -
 - 👀 I’m interested in new frameworks & technologies
-- 🌱 I’m currently learning OpenGL, C++, Rust, Vulkan and managing everithing using NeoVim
+- 🌱 I’m currently learning OpenGL, C++, Rust, Vulkan and managing everything using NeoVim
 - 📫 How to reach me:
   - 
   - 📒ing.dsrr@gmail.com
